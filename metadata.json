@@ -1,0 +1,6 @@
+{
+  "name": "TrustFix",
+  "description": "A fully interactive, full-stack home service app prototype featuring real-time client-provider state synchronization, live tracking, and professional dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
